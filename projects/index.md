@@ -2,7 +2,6 @@
 layout: project
 title: All Projects
 excerpt: "A List of Projects"
-comments: false
 ---
 
 ## A List of Projects
